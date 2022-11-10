@@ -8,7 +8,7 @@ public class DeepCodeExercicioNOTA {
 Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um 
 valor válido.
 
-Chellenge: Ask for a grade, between zero and ten. 
+Challenge: Ask for a grade, between zero and ten. 
 Show a message if the value is invalid and keep asking until the user enters a valid value.*/
 
 public static void main (String []args) {
